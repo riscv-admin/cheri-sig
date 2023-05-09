@@ -4,7 +4,7 @@ The CHERI SIG will work on a strategy for adding Capability Hardware Enhanced RI
 
 ## Background:
 
-CHERI is a technology that extends instruction sets with new architectural features (so-called capabilities) to enable fine-grained memory protection and highly scalable software compartmentalization. CHERI was developed at the University of Cambridge and SRI, and it includes [an instantiation for RISC-V (32- and 64-bit) using the custom opcode space](https://github.com/CTSRD-CHERI/cheri-specification). Microsoft has also announced an IoT-focused adaptation to be published in 2023.
+CHERI is a technology that extends instruction sets with new architectural features (so-called capabilities) to enable fine-grained memory protection and highly scalable software compartmentalization. CHERI was developed at the University of Cambridge and SRI, and it includes [an instantiation for RISC-V (32- and 64-bit) using the custom opcode space](https://github.com/CTSRD-CHERI/cheri-specification). Microsoft has also [published an IoT-focused adaptation](https://www.microsoft.com/en-us/research/publication/cheriot-rethinking-security-for-low-cost-embedded-systems/).
 
 ## Scope:
 
