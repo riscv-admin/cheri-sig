@@ -1,6 +1,6 @@
 # CHERI SIG Charter
 
-The CHERI SIG will work on a strategy for adding Capability Hardware Enhanced RISC Instructions (CHERI) to the RISC-V ISA. Enabling a capability-based security model will ensure that RISC-V can provide strong security guarantees as well as mechanisms for compartmentalization that are more scalable than traditional MMU/PMP-based techniques. This SIG will work towards defining a CHERI-enabled instruction set extension, toolchain requirements, programming model and psABI.
+The CHERI SIG will work on a strategy for adding Capability Hardware Enhanced RISC Instructions (CHERI) to the RISC-V ISA. Enabling a capability-based security model will ensure that RISC-V can provide strong security guarantees as well as mechanisms for compartmentalization that are more scalable than traditional techniques like PMP (physical memory protection) and MMU (memory management unit). This SIG will work towards defining a CHERI-enabled instruction set extension, toolchain requirements, programming model and psABI (processor-specific application binary interface).
 
 ## Background:
 
